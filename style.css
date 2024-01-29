@@ -1,0 +1,20 @@
+
+
+thead:first-child{
+	background-color:#5F9EA0;
+	color:#FFF;
+}
+
+tbody tr:nth-child(even){
+    background-color:#ECECEC;
+}
+tbody i{
+	color:#D4D4D4;
+}
+table th{
+	border:1px solid #D4D4D4;
+	
+}
+tbody td{
+	border:1px solid #D4D4D4;
+}
